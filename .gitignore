@@ -1,8 +1,11 @@
-# Byte-compiled / optimized / DLL files
+config.py 
 __pycache__/
 *.py[cod]
 *$py.class
-
+API_practice.ipynb
+random_numbers.ipynb
+untitled.ipynb
+untitled1.ipynb
 # C extensions
 *.so
 
