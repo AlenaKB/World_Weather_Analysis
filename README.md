@@ -1,12 +1,18 @@
-# World_Weather_Analysis
+# World Weather Analysis
 
-Using Python and the Pandas library to create a marker layer map, and a directions layer Google map that shows directions to travel between multiple cities.
+### Project Status:
+completed
 
-The goals for this challenge are to:
+## Project Intro/Objective
+Using Python and the Pandas library, create a marker layer map, and a directions layer Google map that shows directions to travel between multiple cities. And test the knowledge of decision and repetition statements, data structures, Pandas, Matplotlib, and SciPy statistics.
 
-Use nested try-except blocks.
-Use Pandas methods and attributes on a DataFrame or Series.
-Create a new DataFrame from a new API search with new weather parameters.
-Filter DataFrames based on input and nested decision statements, and logical expressions.
-Create pop-up markers on a Google map from a filtered DataFrame.
-Add a directions layer on a Google map between cities in the filtered DataFrame.
+## Technologies Used:
+Python 3.0
+NumPy
+Matplotlib
+OpenWeather API 
+Google Maps API
+
+## Project Description 
+In this project I've generated 1500 random longitude-latitude pairs to further use in an API call and get a list of cities with the coresponding coordinates. To further transform them into several DataFrames. Filtered them based on input and nested decision statements, and logical expressions. I created pop-up markers on a Google map from a filtered DataFrame.
+Added a directions layer on a Google map between cities in the filtered DataFrame. Performed linear regression, and add regression lines to scatter plots.
